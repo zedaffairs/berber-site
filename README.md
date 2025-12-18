@@ -2,7 +2,7 @@
 <html lang="tr">
 <head>
   <meta charset="UTF-8">
-  <title>X Berber Salonu<
+   Berber Salonu
 </head>
 <body>
 
